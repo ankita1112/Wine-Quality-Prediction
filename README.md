@@ -1,4 +1,4 @@
-The original source for this data is the UCI Data Repository,but this is an edited version of the dataset with some null values.
+The original source for this data is the UCI Data Repository, but this is an edited version of the dataset with some null values.
 
 	Each wine sample(row) has the following characteristics(columns)-
 	1. Fixed acidity
@@ -10,9 +10,9 @@ The original source for this data is the UCI Data Repository,but this is an edit
 	7. Total sulfur dioxide
 	8. Density
 	9. pH
-  10. Sulphates
-  11. Alcohol
-  12 Quality 
+  	10. Sulphates
+  	11. Alcohol
+  	12 Quality 
 
 Some properties of the dataset are:
 
